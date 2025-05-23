@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+<<<<<<< HEAD
+      "cwd": "c:/Users/zeng/Desktop/2222222222/test",
+      "program": "c:/Users/zeng/Desktop/2222222222/test/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/zeng/Desktop/111111111/test",
+      "program": "c:/Users/zeng/Desktop/111111111/test/build/Debug/outDebug",
+>>>>>>> 4a7078fc58bed601927cb5a44b11aecd29dbd0ba
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
