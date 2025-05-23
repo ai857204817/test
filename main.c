@@ -82,6 +82,8 @@ int main() {
     printf("one\r\n");
     printf("two\r\n");
     printf("MODBUS CRC-16: 0x%04X\r\n", crc); // 打印CRC校验结果
+
+	printf("hello world 333 添加代码\r\n");
 		
     return 0;
 }
